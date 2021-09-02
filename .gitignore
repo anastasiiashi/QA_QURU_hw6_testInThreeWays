@@ -42,4 +42,5 @@ target/
 /gradlew.bat# Default ignored files
 /shelf/
 /.idea/workspace.xml
-
+radlew.bat
+settings.gradle
